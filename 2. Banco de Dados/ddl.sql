@@ -1,6 +1,6 @@
 
-CREATE DATABASE catalogoFilmesDB;
-USE catalogoFilmesDB;
+CREATE DATABASE infoaCatalogoFilmesDB;
+USE infoaCatalogoFilmesDB;
 
 CREATE TABLE tb_usuario (
 	id_usuario		int primary key auto_increment,
